@@ -1,0 +1,53 @@
+[
+    {
+        "srcTexWidth":630,
+        "srcTexHeight":378,
+        "dstTexWidth":512,
+        "dstTexHeight":512,
+        "validWidth":126,
+        "validHeight":126,
+        "padding":1
+    },
+    
+    
+    {
+        "srcTexWidth":640,
+        "srcTexHeight":384,
+        "dstTexWidth":512,
+        "dstTexHeight":512,
+        "validWidth":128,
+        "validHeight":128,
+        "padding":0
+    },
+    
+    {
+        "srcTexWidth":434,
+        "srcTexHeight":744,
+        "dstTexWidth":512,
+        "dstTexHeight":512,
+        "validWidth":62,
+        "validHeight":62,
+        "padding":1
+    },
+    
+    {
+        "srcTexWidth":630,
+        "srcTexHeight":372,
+        "dstTexWidth":512,
+        "dstTexHeight":512,
+        "validWidth":126,
+        "validHeight":62,
+        "padding":1
+    },
+    
+    
+    {
+        "srcTexWidth":558,
+        "srcTexHeight":806,
+        "dstTexWidth":512,
+        "dstTexHeight":512,
+        "validWidth":62,
+        "validHeight":62,
+        "padding":1
+    }
+]
